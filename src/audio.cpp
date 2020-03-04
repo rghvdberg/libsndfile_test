@@ -1,5 +1,6 @@
 /* (Auto-generated binary data file). */
 
+
 #include "include/audio.hpp"
 
 static const unsigned char temp_sine_1[] = {
