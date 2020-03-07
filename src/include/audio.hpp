@@ -5,8 +5,7 @@
 
 namespace audio
 {
-    extern const char* sineData;
-    const unsigned int sineDataSize = 96080;
+    char * get_sine_data (size_t * size);
 }
 
 #endif // BINARY_AUDIO_HPP
